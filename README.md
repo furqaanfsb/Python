@@ -1,2 +1,4 @@
 # Python
-Contains code of practice sessions
+Contains code of practice sessions related to python
+
+
